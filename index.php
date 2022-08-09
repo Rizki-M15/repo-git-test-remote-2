@@ -12,5 +12,9 @@
     Nobis mollitia quae perferendis accusamus vero magnam 
     repellat non delectus possimus. Facilis tempora magni at ab 
     hic sed explicabo debitis assumenda molestias.</p>
-</body>
+    <ul>
+        <li>buah</li>
+        <li>jus</li>
+        <li>es</li>
+    </ul>
 </html>
